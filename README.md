@@ -4,6 +4,16 @@
 
 `apt-get install screen php-json php -y`
 
+Inserisci il file .zip tramite FTP nella cartella di installazione 
+
+usa `unzip LaysBotolo-master.zip`
+
+Entra nella cartella e modifica i file:
+
+start.php 
+comandi.php
+
+
 # Installazione Altri Sistemi Operativi
 
 Installa i pacchetti
