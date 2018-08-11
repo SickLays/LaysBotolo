@@ -42,7 +42,7 @@ Nella cartella di installazione esegui il comando
 
 # Installazione dei Plugin
 
-crea la cartella plugin con `mkdir plugin` e inserisci tutti i plugin al suo interno
+crea la cartella plugin con `mkdir plugins`e inserisci tutti i plugin al suo interno
 
 # Credits
 
