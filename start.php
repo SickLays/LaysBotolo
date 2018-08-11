@@ -1,7 +1,7 @@
 <?php
 
 $token = "TOKEN DEL BOTOLO" //inserisci il token che ti da @BotFather
-$capisupremi ['IDtuo','idSecondoCapoSupremo]; //id dei capi supremi dei bot
+$capisupremi = ['IDtuo','idSecondoCapoSupremo]; //id dei capi supremi dei bot
 $config = array(
 "db" => true, //True per usare il database, false per nom usarlo
 "tipo_db" => mysql, //mysql per database che usano MySql, json per database che usano json
